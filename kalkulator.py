@@ -1,4 +1,3 @@
-from ast import Try
 from tkinter import *
 
 
