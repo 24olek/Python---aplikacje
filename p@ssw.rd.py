@@ -1,3 +1,4 @@
+#Generates password of fifteen characters
 import random
 marks = "abcdefghijklmopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ`1234567890-=~!@#$%^&*()_+[]\{}|;':\",./<>?"
 password = ""
